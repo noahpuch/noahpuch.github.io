@@ -1,10 +1,10 @@
-## Portfolio
+## Geospatial Portfolio
 
 ---
 
-### Category Name 1 
+### Projects 
 
-[Project 1 Title](/sample_page)
+[Analyzing the Relationship between Roadways and Flood Zones](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
