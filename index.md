@@ -8,7 +8,7 @@
 <img src="images/flood_and_roads.png?raw=true"/>
 
 ---
-[Investigating Flood Risk in Massachusetts](/pdf/Project Report.pdf)
+[Investigating Flood Risk in Massachusetts](/pdf/flood_in_MA_SQL.pdf)
 <img src="images/flood_in_MA.png"/>
 
 ---
