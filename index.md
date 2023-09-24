@@ -5,7 +5,7 @@
 ### Projects 
 
 [Analyzing the Relationship between Roadways and Flood Zones](/sample_page)
-<img src="images/flood_and_roads.jpg?raw=true"/>
+<img src="images/flood_and_roads.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
