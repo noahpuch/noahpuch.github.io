@@ -8,8 +8,8 @@
 <img src="images/flood_and_roads.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Investigating Flood Risk in Massachusetts](/pdf/Project Report.pdf)
+<img src="images/flood_in_MA.png"/>
 
 ---
 [Project 3 Title](http://example.com/)
